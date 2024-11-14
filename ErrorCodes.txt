@@ -1,0 +1,6 @@
+1: Recipe list File Not Found for searched for File: this error shouldnt be encountered unless one of the Recipe List files has been deleted or renamed, Check the program folder to ensure the desired list exists or is named correctly
+2: Output Sheet in use or not created: this error will most likely be thrown if the spreadsheet is open when TOBIS attempts to write into an existing day(2.2), or if for some reason the program hasnt created the file neccesary(2.1 and Highly unlikely)
+3: Ingredient file not found: This error occurs when the program cant find the ingredient file, check the program file to make sure it exists and is named properly
+4: Note To self, figure what throws this error
+5: Unable to find recipe: The system couldnt find the recipe that was in the meal planner, check the recipes folder to confirm the desired recipe textfile exists
+and is named properly

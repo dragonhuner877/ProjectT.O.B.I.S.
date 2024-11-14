@@ -1,0 +1,7 @@
+//First line is the name of recipe, following lines are the ingredients and their quantities, ordered as name first, separated with the "|" character, followed by the ingredient "universal" amount, separated with a "$" character and followed with the unit of measurement to be converted to. The "!" character denotes the end of ingredients and the line after contains the number of people the recipe serves
+testRecipe
+eggs|6$units
+flour|2$lbs
+milk|4$tbls
+!
+5

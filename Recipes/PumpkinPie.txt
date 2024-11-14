@@ -1,0 +1,7 @@
+//Use $ to indicate name, Then name of Ingredient with "|" as seperator for quantity and ";" to seporate ingredients, then amount of food made in amount of campers
+PumpkinPie
+PumpkinMaterial|6$
+Crust|30$
+Sugar|300$
+!
+6

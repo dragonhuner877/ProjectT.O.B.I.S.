@@ -1,0 +1,8 @@
+
+baking powder|5|bag|lbs|n/a|n/a$
+eggs|256|box|units|n/a|n/a$
+flour|50|Bag|lbs|n/a|n/a$
+milk|1|jugs|Gal|n/a|n/a$
+salt|26|jar|oz(volume)|n/a|n/a$
+sugar|400|1|oz(volume)|n/a|n/a$
+veg oil|4|Jug|Gal|CanolaOil|n/a$

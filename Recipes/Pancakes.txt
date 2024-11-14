@@ -1,0 +1,11 @@
+//First line is the name of recipe, following lines are the ingredients and their quantities, ordered as name first, separated with the "|" character, followed by the ingredient "universal" amount, separated with a "$" character and followed with the unit of measurement to be converted to. The "!" character denotes the end of ingredients and the line after contains the number of people the recipe serves
+Pancakes
+flour|4.0$lbs
+flour|0.5$oz(weight)
+salt|1.0$tbsp
+sugar|12.0$oz(volume)
+eggs|12.0$Units
+milk|0.8749998765060001$quart
+veg oil|0.0937499867685$oz(volume)
+!
+5
